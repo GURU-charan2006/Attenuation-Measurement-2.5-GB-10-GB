@@ -82,12 +82,14 @@ Using the power budget equation and the parameters below, determine the attenuat
 ## GRAPH OF 2.5GB:
 HIGH NOISE:
 <img width="974" height="579" alt="Screenshot 2026-01-31 141055" src="https://github.com/user-attachments/assets/e1ea9c6d-9d5f-43ef-a010-bf5328bcbf75" />
+
 LOW NOISE:
 <img width="999" height="576" alt="Screenshot 2026-01-31 141622" src="https://github.com/user-attachments/assets/e8236f42-0e98-44e3-8aad-05c805103b20" />
 
 ## GRAPH OF 10GB:
 HIGH NOISE:
 <img width="967" height="750" alt="Screenshot 2026-01-31 143335" src="https://github.com/user-attachments/assets/a15e79e3-8c2e-4208-8a74-d36a9a36b16a" />
+
 LOW NOISE:
 <img width="997" height="769" alt="Screenshot 2026-01-31 143456" src="https://github.com/user-attachments/assets/10a3d23f-7138-466f-95a1-dd00a5c3f26b" />
 
